@@ -96,6 +96,10 @@ In the above diagram, the left part is showing how clusters are created in agglo
 
 ### [Classification](https://github.com/anupam215769/Classification-ML)
 
+### [Association Rule Learning](https://github.com/anupam215769/Association-Rule-Learning-ML)
+
+### [Reinforcement Learning](https://github.com/anupam215769/Reinforcement-Learning-ML)
+
 
 ## Credit
 
