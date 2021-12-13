@@ -80,5 +80,32 @@ In the above diagram, the left part is showing how clusters are created in agglo
 - At last, the final dendrogram is created that combines all the data points together.
 
 
+## Comparison
 
+| Clustering Model        | Pros                                                                                                            | Cons                                  |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| K-Means                 | Simple to understand, easily adaptable, works well on small or large datasets, fast, efficient and performance  | Need to choose the number of clusters |
+| Hierarchical Clustering | The optimal number of clusters can be obtained by the model itself, practical visualisation with the dendrogram | Not appropriate for large datasets    |
+
+
+## Related Repositories
+
+### [Data Preprocessing](https://github.com/anupam215769/Data-Preprocessing-ML)
+
+### [Regression](https://github.com/anupam215769/Regression-ML)
+
+### [Classification](https://github.com/anupam215769/Classification-ML)
+
+
+## Credit
+
+**Coded By**
+
+[Anupam Verma](https://github.com/anupam215769)
+
+<a href="https://github.com/anupam215769/Clustering-ML/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=anupam215769/Clustering-ML" />
+</a>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
 
